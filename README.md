@@ -10,7 +10,7 @@ To start the server you need to clone the project (git clone);
 - run script - npm run start in the code editor (to start the server and connect to the database);
 - Online-Shop project files before bandle build can be viewed and copied at: https://github.com/AleksandrTrybrat/angular-online-shop.git
 
-//=================================================================================
+//==========================================================================
 
 Сервер подключения к базе данных MongoDB.
 Чтобы запустить сервер необходимо склонировать проект (git clone);
