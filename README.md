@@ -6,6 +6,7 @@ To start the server you need to clone the project (git clone);
 - then install npm modules using the npm install command;
 - to connect to the database you need to create an environment variable .env file, in which you need to specify two variables PORT=3000 and API_URL - in this variable you need to substitute a link for connection
       (example: mongodb+srv://********:******@onlineshop.ebn3oto.mongodb.net/*******?retryWrites=true&w=majority), where instead of **** you should substitute Name, password and name of the partition in the database;
+- or use the provided .env file
 - also data from the mongo.json file should be copied into the database for correct launch of the Online-Shop web application on the localhost:3000 port.
 - run script - npm run start in the code editor (to start the server and connect to the database);
 - Online-Shop project files before bandle build can be viewed and copied at: https://github.com/AleksandrTrybrat/angular-online-shop.git
